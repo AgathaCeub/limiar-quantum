@@ -1,0 +1,8 @@
+{
+  "name": "limiar-quantum-fieldwork",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "test": "node --test quantum.test.cjs"
+  }
+}
